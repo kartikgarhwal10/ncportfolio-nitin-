@@ -5,6 +5,7 @@ import About from "@/components/About";
 import Expertise from "@/components/Expertise";
 import PerformanceMindset from "@/components/PerformanceMindset";
 import Results from "@/components/Results";
+import VideoCarousel from "@/components/VideoCarousel";
 import Process from "@/components/Process";
 import Tools from "@/components/Tools";
 import PersonalBrand from "@/components/PersonalBrand";
@@ -22,6 +23,7 @@ export default function Home() {
       <Expertise />
       <PerformanceMindset />
       <Results />
+      <VideoCarousel />
       <Process />
       <Tools />
       <PersonalBrand />
