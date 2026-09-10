@@ -7,7 +7,7 @@ export default function ExperienceStrip() {
   const items = [
     {
       icon: Award,
-      title: "3+ Years",
+      title: "1+ Year",
       subtitle: "Experience",
     },
     {

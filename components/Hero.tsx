@@ -56,7 +56,7 @@ export default function Hero() {
               transition={{ delay: 0.3, duration: 0.6 }}
               className="text-lg sm:text-xl text-[#A5A9B4] font-normal leading-relaxed max-w-2xl mb-8"
             >
-              I'm <strong className="text-white font-semibold">Nitin Choudhary</strong>, a Performance Marketing Specialist with 3+ years of experience helping businesses acquire customers through data-driven digital advertising strategies.
+              I'm <strong className="text-white font-semibold">Nitin Choudhary</strong>, a Performance Marketing Specialist with 1+ year of experience helping businesses acquire customers through data-driven digital advertising strategies.
             </motion.p>
 
             {/* Buttons */}
@@ -89,7 +89,7 @@ export default function Hero() {
               className="grid grid-cols-3 gap-4 pt-6 border-t border-white/10 w-full"
             >
               <div className="flex flex-col">
-                <span className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">3+ Years</span>
+                <span className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">1+ Year</span>
                 <span className="text-xs sm:text-sm text-[#A5A9B4] font-medium">Experience</span>
               </div>
               <div className="flex flex-col">
@@ -168,14 +168,14 @@ export default function Hero() {
                 </div>
               </motion.div>
 
-              {/* Floating Card 3 - 3+ YEARS */}
+              {/* Floating Card 3 - 1+ YEAR */}
               <motion.div
                 animate={{ y: [0, -5, 0] }}
                 transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 2 }}
                 className="absolute -bottom-4 -left-2 px-4 py-2.5 rounded-2xl glass-card border border-white/10 shadow-xl flex items-center space-x-2 bg-[#14171D]/90 backdrop-blur-md"
               >
                 <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" />
-                <span className="text-xs font-bold text-white">3+ YEARS EXPERIENCE</span>
+                <span className="text-xs font-bold text-white">1+ YEAR EXPERIENCE</span>
               </motion.div>
 
             </div>

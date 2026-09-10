@@ -14,11 +14,11 @@ export interface MetricItem {
 export const siteData = {
   name: "Nitin Choudhary",
   title: "Performance Marketing Specialist",
-  experience: "3+ Years",
+  experience: "1+ Year",
   availability: "AVAILABLE FOR SELECT PROJECTS",
   headline: "I Don't Just Run Ads. I Build Campaigns That Perform.",
   supportingCopy:
-    "I'm Nitin Choudhary, a Performance Marketing Specialist with 3+ years of experience in digital marketing, paid acquisition and Meta Ads. I focus on building data-driven campaigns designed to generate qualified leads, improve conversions and create measurable business growth.",
+    "I'm Nitin Choudhary, a Performance Marketing Specialist with 1+ year of experience in digital marketing, paid acquisition and Meta Ads. I focus on building data-driven campaigns designed to generate qualified leads, improve conversions and create measurable business growth.",
   
   about: {
     label: "ABOUT ME",
@@ -28,11 +28,11 @@ export const siteData = {
     paragraph2:
       "My approach combines audience research, campaign strategy, creative testing, budget optimization and performance analysis to build advertising systems that continuously improve.",
     paragraph3:
-      "With 3+ years of experience in digital marketing, I focus on creating campaigns where every decision is backed by data.",
+      "With 1+ year of experience in digital marketing, I focus on creating campaigns where every decision is backed by data.",
     cardDetails: {
       name: "NITIN CHOUDHARY",
       role: "Performance Marketing Specialist",
-      experienceText: "3+ Years Digital Marketing Experience",
+      experienceText: "1+ Year Digital Marketing Experience",
       coreFocus: [
         "Meta Ads",
         "Lead Generation",

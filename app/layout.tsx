@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Nitin Choudhary | Performance Marketing & Meta Ads Specialist",
   description:
-    "Nitin Choudhary is a Performance Marketing Specialist with 3+ years of experience in Meta Ads, digital marketing, lead generation and paid acquisition.",
+    "Nitin Choudhary is a Performance Marketing Specialist with 1+ year of experience in Meta Ads, digital marketing, lead generation and paid acquisition.",
   keywords: [
     "Performance Marketing Specialist",
     "Meta Ads Specialist",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Nitin Choudhary | Performance Marketing & Meta Ads Specialist",
     description:
-      "Nitin Choudhary is a Performance Marketing Specialist with 3+ years of experience in Meta Ads, digital marketing, lead generation and paid acquisition.",
+      "Nitin Choudhary is a Performance Marketing Specialist with 1+ year of experience in Meta Ads, digital marketing, lead generation and paid acquisition.",
     type: "website",
   },
 };
